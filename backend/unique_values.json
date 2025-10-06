@@ -1,0 +1,40 @@
+{
+    "degrees": [
+        "B.Sc",
+        "B.Tech",
+        "M.Sc",
+        "M.Tech",
+        "MBA"
+    ],
+    "majors": [
+        "Computer Science",
+        "Economics",
+        "Electrical",
+        "Finance",
+        "IT",
+        "Mechanical"
+    ],
+    "skills": [
+        "Accounting",
+        "AutoCAD",
+        "C",
+        "C++",
+        "Circuit Design",
+        "Data Analysis",
+        "Econometrics",
+        "Embedded Systems",
+        "Excel",
+        "Financial Modeling",
+        "Java",
+        "MATLAB",
+        "Machine Learning",
+        "Python",
+        "R",
+        "Risk Analysis",
+        "SQL",
+        "SolidWorks",
+        "Statistics",
+        "Thermodynamics",
+        "VHDL"
+    ]
+}
